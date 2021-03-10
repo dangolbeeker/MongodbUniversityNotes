@@ -1,0 +1,27 @@
+
+interface showMenu {
+	menu?: 'menu show'
+	menu_br}
+		
+const Menu = React.FC = () => { 
+useEffect(() =>{
+const  handleClick = e => {
+let url= e.target.attributes.value.nodeValue;
+ props.toggleChildBack(url)
+ 
+ hideMenu { 
+		menu?: 'menu close'
+        menu_branding?: 'menu_branding'
+         menu_nav?:  'menu_nav'
+         nav_item?:'nav_item current'
+		else }
+ 
+ if (props.showMenu) {
+            menu = 'menu show';
+            menu_branding = 'menu_branding show'
+            menu_nav = 'menu_nav show'
+            nav_item = 'nav_item current show'
+
+			
+ }
+ } }
